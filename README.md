@@ -88,7 +88,7 @@ A certificate of completion for the 10-Day SQL Mini Project Challenge from Data 
 
 Manchikanti Gayathri
 * Email: gayathri.manchikantil4@gmail.com
-* LinkedIn: [Your LinkedIn Profile Link] 
-* GitHub: [Your GitHub Profile Link] 
+* LinkedIn: https://www.linkedin.com/in/gayathri-manchikanti-30764727a/
+* GitHub: https://github.com/ManchikantiGayathri 
 
 ---
