@@ -12,7 +12,6 @@ This project involves a comprehensive SQL-based analysis of an online food deliv
 - [Analysis Questions & Insights](#analysis-questions--insights)
 - [Tools Used](#tools-used)
 - [Project Structure](#project-structure)
-- [How to Use](#how-to-use)
 - [Certificate of Completion](#certificate-of-completion)
 - [Author](#author)
 
