@@ -29,7 +29,6 @@ The dataset comprises five tables:
 - **`orders`**: Records order-level details such as order ID, customer ID, restaurant ID, order date, total amount, and order status.
 - **`order_details`**: Provides line-item data for each order, including order detail ID, order ID, item ID, quantity, and price at the time of order.
 
-*(Note: In your `tablecontent.sql`, the `restaurants` table is named `restaurent` and `menu_items` is `menu_item`. You might want to be consistent in your README or note the naming difference.)*
 
 ## ER Diagram
 
@@ -61,22 +60,14 @@ Detailed insights and visualizations are available in the [Project Report](Docum
 
 ## Project Structure
 Online_Food_Delivery_SQL_Project/
+
 ├── Data/                 # Raw CSV datasets
+
 ├── SQL_Queries/          # SQL scripts for database creation and analysis
+
 ├── Documentation/        # Project report, ER diagram, and certificate
+
 └── README.md             # This README file
-
-## How to Use
-
-1.  **Clone the Repository:**
-    ```bash
-    git clone [https://github.com/YOUR_GITHUB_USERNAME/Online-Food-Delivery-SQL-Project.git](https://github.com/YOUR_GITHUB_USERNAME/Online-Food-Delivery-SQL-Project.git)
-    ```
-2.  **Set up Database:**
-    * Use the SQL script in `SQL_Queries/tablecontent.sql` to create the database and tables.
-    * Load the data from the `.csv` files in the `Data/` directory into their respective tables.
-3.  **Run Queries:** Execute the SQL queries in `SQL_Queries/tablecontent.sql` to reproduce the analysis.
-4.  **Review Report:** Refer to the `Documentation/Online Food Delivery SQL Project.pdf` for a detailed explanation of the project, insights, and visualizations.
 
 ## Certificate of Completion
 
