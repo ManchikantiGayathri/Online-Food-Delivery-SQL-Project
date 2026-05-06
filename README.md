@@ -11,7 +11,6 @@ This project involves a comprehensive SQL-based analysis of an online food deliv
 - [ER Diagram](#er-diagram)
 - [Analysis Questions & Insights](#analysis-questions--insights)
 - [Tools Used](#tools-used)
-- [Project Structure](#project-structure)
 - [Certificate of Completion](#certificate-of-completion)
 - [Author](#author)
 
@@ -57,17 +56,6 @@ Detailed insights and visualizations are available in the [Project Report](Docum
 * **Data Analysis:** SQL queries
 * **Google Sheets:** Graphs
 * **Documentation:** PDF (for report and ER Diagram)
-
-## Project Structure
-Online_Food_Delivery_SQL_Project/
-
-├── Data/                 # Raw CSV datasets
-
-├── SQL_Queries/          # SQL scripts for database creation and analysis
-
-├── Documentation/        # Project report, ER diagram, and certificate
-
-└── README.md             # This README file
 
 ## Certificate of Completion
 
