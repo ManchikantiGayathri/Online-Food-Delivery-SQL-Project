@@ -53,8 +53,9 @@ Detailed insights and visualizations are available in the [Project Report](Docum
 
 ## Tools Used
 
-* **Database:** SQL (MySQL/PostgreSQL/SQL Server - specify if you used a particular one)
+* **Database:** SQL (MySQ)
 * **Data Analysis:** SQL queries
+* **Google Sheets:** Graphs
 * **Documentation:** PDF (for report and ER Diagram)
 
 ## Project Structure
